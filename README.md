@@ -4,7 +4,8 @@
 
 
 
-- 🔭 I’m currently working on Razen [Razen](https://discord.gg/razenbot). A powerful bot, with the best AI Systems in discord.
+- 🔭 I’m currently working on Razen [Razen](https://discord.gg/rialabs). A powerful bot.
+- And [Razen](https://discord.gg/rialabs), An opensourced bot that i made, using RIA 5 AI Models, it is the most powerful AI Bot in Discord.
 
 
 
